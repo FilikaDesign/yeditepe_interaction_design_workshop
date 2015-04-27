@@ -1,4 +1,4 @@
-# yeditepe_interaction_design_workshop
+# Yeditepe Interaction Design Workshop
 
 Processing sketch file is used at Yeditepe University to create generative arts vector graphics for interaction design class students. 
 
